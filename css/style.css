@@ -6,7 +6,7 @@ body {
  font-weight: 400;
  line-height: 30px;
  color: #ffffff;
- background-color: #fdf6f0;
+ background-color: #050072;
 }
 
 img {
@@ -16,7 +16,7 @@ img {
 
 .main {
 	height: 778px;
-	background: #e4b194 url("../img/background.jpg") no-repeat center 0px;
+	background: #050072 url("../img/background.jpg") no-repeat center 0px;
 	color: #ffffff;
 }
 
